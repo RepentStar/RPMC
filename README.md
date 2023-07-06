@@ -6,10 +6,13 @@ RPMC公告板 & BUG/问题回复
 请发ISSUE以便管理
 
 # 服务器功能讲解介绍/使用帮助
+- [登录保护/登录密码](./help/CatSeedLogin.md)
 - [原版加强/Tweakin插件](./help/Tweakin.md)
 - [坐下！/各种姿势插件](./help/Gsit.md)
 - [彩色命名](./help/ColoredAnvils.md)
+- [ExcellentEnchants/更好的附魔](./)
 - [负魔书](https://user-images.githubusercontent.com/65019366/182375428-b02a48ea-8b45-49f2-b6b4-a425c46fd74a.png)
+- [⚔EliteMobs⚔](./help/EliteMobs.md)
 > 未完待续……
 
 # 目前需要解决的问题
