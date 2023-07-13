@@ -10,7 +10,7 @@ RPMC公告板 & BUG/问题回复
 - [原版加强/Tweakin插件](./help/Tweakin.md)
 - [坐下！/各种姿势插件](./help/Gsit.md)
 - [彩色命名](./help/ColoredAnvils.md)
-- [ExcellentEnchants/更好的附魔](./)
+- [ExcellentEnchants/更好的附魔](./help/ExcellentEnchants.md)
 - [负魔书](https://user-images.githubusercontent.com/65019366/182375428-b02a48ea-8b45-49f2-b6b4-a425c46fd74a.png)
 - [⚔EliteMobs⚔](./help/EliteMobs.md)
 > 未完待续……
@@ -18,7 +18,7 @@ RPMC公告板 & BUG/问题回复
 # 目前需要解决的问题
 ## 服务器软件
 - [ ] 时刻关注[EssentialX](https://github.com/EssentialsX/Essentials)插件更新状况
-- [ ] 时刻关注[IronElevators](https://www.spigotmc.org/resources/ironelevators-1-4-6-1-19-x.19451)插件更新状况
+- [x] 时刻关注[IronElevators](https://www.spigotmc.org/resources/ironelevators-1-4-6-1-19-x.19451)插件更新状况
 - [ ] 时刻关注Ess-PlaceHolder-TAB联动情况
 - [ ] 时刻关注[SlimeFun](https://github.com/StarWishsama/Slimefun4)插件更新状况
 - [ ] 时刻关注[Veinminer](https://github.com/2008Choco/VeinMiner)反选功能的更新
