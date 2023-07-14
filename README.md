@@ -7,6 +7,7 @@ RPMC公告板 & BUG/问题回复
 
 # 服务器功能讲解介绍/使用帮助
 - [登录保护/登录密码](./help/CatSeedLogin.md)
+- [Java-Bedrock互通/Geyser](./help/Geyser-Spigot.md)
 - [原版加强/Tweakin插件](./help/Tweakin.md)
 - [坐下！/各种姿势插件](./help/Gsit.md)
 - [彩色命名](./help/ColoredAnvils.md)
