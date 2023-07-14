@@ -13,6 +13,7 @@ RPMC公告板 & BUG/问题回复
 - [彩色命名](./help/ColoredAnvils.md)
 - [ExcellentEnchants/更好的附魔](./help/ExcellentEnchants.md)
 - [负魔书](https://user-images.githubusercontent.com/65019366/182375428-b02a48ea-8b45-49f2-b6b4-a425c46fd74a.png)
+- [Paper服务器上的SandDupe](./help/GravityControl.md)
 - [⚔EliteMobs⚔](./help/EliteMobs.md)
 > 未完待续……
 
