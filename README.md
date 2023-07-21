@@ -29,7 +29,7 @@ RPMC公告板 & BUG/问题回复
 - [ ] 时刻关注[Veinminer](https://github.com/2008Choco/VeinMiner)反选功能的更新
 
 ## 服务器状况
-- [x] mca删除无用旧版区块
+- [x] mca删除无用旧版区块 现在的地图焕然一新！！
 
 ## 游戏
 - [ ] 监督无赖WuThreeThree完成那一大堆烂尾工程
