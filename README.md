@@ -11,12 +11,12 @@ RPMC公告板 & BUG/问题回复
 - [Java-Bedrock互通/Geyser](./help/Geyser-Spigot.md)
 - [原版加强/Tweakin插件](./help/Tweakin.md)
 - [服务器核心组件/EssentialsX](./help/EssentialsX.md)
-- [坐下！/各种姿势插件](./help/Gsit.md)
-- [彩色命名](./help/ColoredAnvils.md)
+- [坐下！——各种姿势插件/Gsit](./help/Gsit.md)
+- [彩色命名/ColoredAnvils](./help/ColoredAnvils.md)
 - [创世神/WorldEdit](./help/WorldEdit.md)
-- [ExcellentEnchants/更好的附魔](./help/ExcellentEnchants.md)
-- [负魔书](https://user-images.githubusercontent.com/65019366/182375428-b02a48ea-8b45-49f2-b6b4-a425c46fd74a.png)
-- [Paper服务器上的SandDupe](./help/GravityControl.md)
+- [更好的附魔/ExcellentEnchants](./help/ExcellentEnchants.md)
+- [负魔书/DeEnchantment](https://user-images.githubusercontent.com/65019366/182375428-b02a48ea-8b45-49f2-b6b4-a425c46fd74a.png)
+- [Paper服务器上的SandDupe/GravityControl](./help/GravityControl.md)
 - [⚔EliteMobs⚔](./help/EliteMobs.md)
 > 未完待续……
 
@@ -34,6 +34,7 @@ RPMC公告板 & BUG/问题回复
 ## 游戏
 - [ ] 监督无赖WuThreeThree完成那一大堆烂尾工程
 - [ ] 重建电力工程
+- [ ] 修缮未建完的RepentStar的家
 
 ## Bug
 - 没有任何征兆的服务器自动重启(通常发生在玩家进出后)(未找到原因)
