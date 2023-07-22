@@ -7,7 +7,7 @@ RPMC公告板 & BUG/问题回复
 
 # 服务器功能讲解介绍/使用帮助
 - [BaseGamerule](./help/BaseGamerule.md)
-- [登录保护/登录密码](./help/CatSeedLogin.md)
+- [登录密码/CatSeedLogin](./help/CatSeedLogin.md)
 - [Java-Bedrock互通/Geyser](./help/Geyser-Spigot.md)
 - [原版加强/Tweakin插件](./help/Tweakin.md)
 - [服务器核心组件/EssentialsX](./help/EssentialsX.md)
@@ -34,7 +34,7 @@ RPMC公告板 & BUG/问题回复
 ## 游戏
 - [ ] 监督无赖WuThreeThree完成那一大堆烂尾工程
 - [ ] 重建电力工程
-- [ ] 修缮未建完的RepentStar的家
+- [x] 修缮未建完的RepentStar的家 - 三楼修缮完成！
 
 ## Bug
 - 没有任何征兆的服务器自动重启(通常发生在玩家进出后)(未找到原因)
