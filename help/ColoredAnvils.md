@@ -1,5 +1,6 @@
 # ColoredAnvils
 允许玩家通过使用铁砧为物品名称添加颜色
+
 [源地址](https://www.spigotmc.org/resources/coloredanvils.2216/)
 
 # 使用文档
@@ -12,8 +13,11 @@
 为了节省字符，也支持3位十六进制颜色代码！
 
 示例：
+
 ![使用示例1](../img/ColoredAnvils_usage(1).png)
+
 ![使用示例2](../img/ColoredAnvils_usage(2).png)
+
 ![使用示例3](../img/ColoredAnvils_usage(3).png)
 
 > 本文使用了GPT翻译源文档+我本人审阅修改

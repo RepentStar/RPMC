@@ -1,7 +1,10 @@
 # ExcellentEnchants
 更好的附魔，添加许多额外正/负向附魔
+
 所有可以在原版附魔上使用的操作，在这里都可以使用
+
 会自然生成附魔书，可以与村民交易得到，可以钓鱼钓到……
+
 [源地址](https://www.spigotmc.org/resources/excellentenchants-vanilla-like-enchantments.61693/)
 
 # 使用文档
@@ -77,8 +80,11 @@
 凋零 (Wither)
 ```
 看着这些名字也大概都知道这些附魔是干啥的了吧。
+
 此外，可以通过命令显示GUI界面来了解这些附魔的效果、具体绑定对象和彼此冲突情况哦~
+
 使用`/excellentenchants list`查看
+
 这个命令真的很好用！很多东西我都汉化了！
 
 > 本文有部分内容经过GPT翻译+我本人审阅
