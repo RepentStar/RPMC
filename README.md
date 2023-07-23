@@ -2,6 +2,9 @@
 RPMC公告板 & BUG/问题回复
 一些关于RPMC服务器的讨论、计划、BUG、正在面临的问题
 
+# RPMC宣言/历史
+[点我](./DECLARATION.md)
+
 # 讨论、BUG、建议
 请发ISSUE以便管理
 
