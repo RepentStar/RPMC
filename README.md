@@ -12,6 +12,7 @@ RPMC公告板 & BUG/问题回复
 - [原版加强/Tweakin插件](./help/Tweakin.md)
 - [服务器核心组件/EssentialsX](./help/EssentialsX.md)
 - [坐下！——各种姿势插件/Gsit](./help/Gsit.md)
+- [地图画/Images](./help/Images.md)
 - [彩色命名/ColoredAnvils](./help/ColoredAnvils.md)
 - [创世神/WorldEdit](./help/WorldEdit.md)
 - [更好的附魔/ExcellentEnchants](./help/ExcellentEnchants.md)
