@@ -20,6 +20,7 @@ RPMC公告板 & BUG/问题回复
 - [创世神/WorldEdit](./help/WorldEdit.md)
 - [更好的附魔/ExcellentEnchants](./help/ExcellentEnchants.md)
 - [负魔书/DeEnchantment](https://user-images.githubusercontent.com/65019366/182375428-b02a48ea-8b45-49f2-b6b4-a425c46fd74a.png)
+- [更好的门/DoorsReloaded](./help/DoorsReloaded.md)
 - [Paper服务器上的SandDupe/GravityControl](./help/GravityControl.md)
 - [⚔EliteMobs⚔](./help/EliteMobs.md)
 > 未完待续……
