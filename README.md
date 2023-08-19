@@ -12,6 +12,7 @@ RPMC公告板 & BUG/问题回复
 - [BaseGamerule](./help/BaseGamerule.md)
 - [登录密码/CatSeedLogin](./help/CatSeedLogin.md)
 - [Java-Bedrock互通/Geyser](./help/Geyser-Spigot.md)
+- [网页地图/Dynmap](./help/Dynmap.md)
 - [原版加强/Tweakin插件](./help/Tweakin.md)
 - [服务器核心组件/EssentialsX](./help/EssentialsX.md)
 - [坐下！——各种姿势插件/Gsit](./help/Gsit.md)
