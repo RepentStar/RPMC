@@ -11,6 +11,7 @@ RPMC公告板 & BUG/问题回复
 # 服务器功能讲解介绍/使用帮助
 - [BaseGamerule](./help/BaseGamerule.md)
 - [登录密码/CatSeedLogin](./help/CatSeedLogin.md)
+- [皮肤设置/SkinsRestorer](./help/SkinsRestorer.md)
 - [Java-Bedrock互通/Geyser](./help/Geyser-Spigot.md)
 - [网页地图/Dynmap](./help/Dynmap.md)
 - [原版加强/Tweakin插件](./help/Tweakin.md)
@@ -18,6 +19,7 @@ RPMC公告板 & BUG/问题回复
 - [坐下！——各种姿势插件/Gsit](./help/Gsit.md)
 - [地图画/Images](./help/Images.md)
 - [彩色命名/ColoredAnvils](./help/ColoredAnvils.md)
+- [请注意/DeluxeMentions](./help/DeluxeMentions.md)
 - [创世神/WorldEdit](./help/WorldEdit.md)
 - [更好的附魔/ExcellentEnchants](./help/ExcellentEnchants.md)
 - [负魔书/DeEnchantment](https://user-images.githubusercontent.com/65019366/182375428-b02a48ea-8b45-49f2-b6b4-a425c46fd74a.png)
