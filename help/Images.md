@@ -1,7 +1,7 @@
 # Images
 允许玩家在游戏中插入图片，快捷地图画
 
-[源地址](hhttps://www.spigotmc.org/resources/custom-images.53036/)
+[插件发布地址](hhttps://www.spigotmc.org/resources/custom-images.53036/)
 
 # 使用文档
 目前因技术原因，无法开放自定义图片上传，如果需要增加图片请发我

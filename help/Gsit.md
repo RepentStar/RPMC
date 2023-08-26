@@ -1,7 +1,7 @@
 # Gsit
 一个加入各种丰富动作的插件
 
-[源地址](https://www.spigotmc.org/resources/gsit-modern-sit-seat-and-chair-lay-and-crawl-plugin-1-13-1-20.62325/)
+[插件发布地址](https://www.spigotmc.org/resources/gsit-modern-sit-seat-and-chair-lay-and-crawl-plugin-1-13-1-20.62325/)
 
 # 使用文档
 ```minecraft command

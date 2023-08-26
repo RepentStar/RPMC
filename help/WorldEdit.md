@@ -1,6 +1,7 @@
 # WorldEdit
 大名鼎鼎的创世神
-[源地址](https://dev.bukkit.org/projects/worldedit/)
+
+[插件发布地址](https://dev.bukkit.org/projects/worldedit/)
 
 # 使用文档
 由于创世神具有作弊属性所以本服并不对外开放权限

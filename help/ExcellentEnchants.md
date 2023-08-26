@@ -5,7 +5,7 @@
 
 会自然生成附魔书，可以与村民交易得到，可以钓鱼钓到……
 
-[源地址](https://www.spigotmc.org/resources/excellentenchants-vanilla-like-enchantments.61693/)
+[插件发布地址](https://www.spigotmc.org/resources/excellentenchants-vanilla-like-enchantments.61693/)
 
 # 使用文档
 

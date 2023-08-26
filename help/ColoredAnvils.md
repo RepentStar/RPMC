@@ -1,7 +1,7 @@
 # ColoredAnvils
 允许玩家通过使用铁砧为物品名称添加颜色
 
-[源地址](https://www.spigotmc.org/resources/coloredanvils.2216/)
+[插件发布地址](https://www.spigotmc.org/resources/coloredanvils.2216/)
 
 # 使用文档
 像正常命名物品一样命名，只不过加一些颜色代号。在你输入时，物品名称的预览会实时更新！此外，如果你已经有一个带有显示名称的物品，你可以进行修复而无需重新输入名称，并且仍然保留格式！

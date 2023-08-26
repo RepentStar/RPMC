@@ -1,7 +1,7 @@
 # CatSeedLogin
 一个服务器登录插件，进过服的都知道
 
-[源地址](https://github.com/CatSeed/CatSeedLogin)
+[插件发布地址](https://github.com/CatSeed/CatSeedLogin)
 
 # 使用说明
 某一名字刚进入服务器时需要`/reg 密码 重复密码`来注册账号，`密码`请替换成自定义的密码，~~以前还真有人就直接打`密码`两个字的~~

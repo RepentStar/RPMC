@@ -1,7 +1,7 @@
 # DoorsReloaded
 方便的门
 
-[源地址](https://www.spigotmc.org/resources/doors-reloaded.91722/)
+[插件发布地址](https://www.spigotmc.org/resources/doors-reloaded.91722/)
 
 # 使用文档
 受影响的只有两类门:铁门、各式木门

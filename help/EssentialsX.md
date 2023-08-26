@@ -1,7 +1,7 @@
 # EssentialsX
 服务器的核心组件，大多数基础功能的提供插件
 
-[源地址](https://essentialsx.net/)
+[插件发布地址](https://essentialsx.net/)
 
 # 使用文档
 这里只是介绍一些本服开启的一些特性/可使用的指令

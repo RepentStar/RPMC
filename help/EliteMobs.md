@@ -1,7 +1,7 @@
 # EliteMobs
 增加了精英怪，更强的附魔和武器
 
-[源地址](https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/)
+[插件发布地址](https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/)
 
 # 使用文档
 

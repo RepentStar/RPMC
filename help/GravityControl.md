@@ -2,7 +2,7 @@
 该插件让沙复制在Paper核心上成为可能
 所以本服虽然为Paper服，但是仍然可以使用SandDupe原理的所有生电机器
 
-[源地址](https://modrinth.com/plugin/gravitycontrol)
+[插件发布地址](https://modrinth.com/plugin/gravitycontrol)
 
 # 使用文档
 只是开启了SandDupe而已

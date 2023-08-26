@@ -1,7 +1,7 @@
 # NeverTooExpensive
 再见，“过于昂贵”
 
-[源地址](https://www.spigotmc.org/resources/nevertooexpensive.102977/)
+[插件发布地址](https://www.spigotmc.org/resources/nevertooexpensive.102977/)
 
 # 使用文档
 为了避免物品复制，使用铁砧时请用`SHIFT+RIGHT_CLICK`进行物品转移

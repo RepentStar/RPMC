@@ -3,7 +3,7 @@
 
 正如其名，在本服任意竖直放两个铁块，在其之上跳跃会潜行，就能像电梯一样上下。
 
-[源地址](https://www.spigotmc.org/resources/ironelevators-1-4-6-1-20-x.19451/)
+[插件发布地址](https://www.spigotmc.org/resources/ironelevators-1-4-6-1-20-x.19451/)
 
 # 使用文档
 - 使用时没有冷却时间，不过也请勿乱玩以增加服务器负载

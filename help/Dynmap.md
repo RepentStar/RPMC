@@ -1,7 +1,7 @@
 # Dynmap
 网页地图
 
-[源地址](https://www.spigotmc.org/resources/dynmap%C2%AE.274/)
+[插件发布地址](https://www.spigotmc.org/resources/dynmap%C2%AE.274/)
 
 # 使用文档
 具体地址请进游戏看公告或进QQ/钉钉群看公告

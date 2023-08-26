@@ -1,6 +1,7 @@
 # Geyser
 Geyser让MCBE(Minecraft: Bedrock Edition)玩家能在MCJE(Minecraft: Java Edition)的服务器上欺负腐竹。其允许BE玩家使用JE服务器上的一些功能，例如命令、皮肤和特性。
-[源地址](https://geysermc.org/)
+
+[插件发布地址](https://geysermc.org/)
 
 # 使用文档
 本服已经启用Geyser

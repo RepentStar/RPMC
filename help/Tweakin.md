@@ -1,6 +1,7 @@
 # Tweakin
 是一个原版加强微调插件，增加了许多有趣有用的功能
-[源地址](https://www.spigotmc.org/resources/tweakin-1-17-1-20.93444/)
+
+[插件发布地址](https://www.spigotmc.org/resources/tweakin-1-17-1-20.93444/)
 
 ## 本服开启功能列表
 ```txt
