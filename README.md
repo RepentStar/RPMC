@@ -5,6 +5,9 @@ RPMC公告板 & BUG/问题回复
 # RPMC宣言/历史
 [点我](./DECLARATION.md)
 
+# 梗~~百~~一科
+[单独页面](./Pedomedia.md)
+
 # 讨论、BUG、建议
 请发ISSUE以便管理
 
@@ -42,7 +45,8 @@ RPMC公告板 & BUG/问题回复
 ## 游戏
 - [ ] [监督无赖WuThreeThree完成那一大堆烂尾工程](./WUTHREETHREE.md)
 - [ ] 重建电力工程
-- [ ] 修建物品分类机(YiLg)
+- [ ] 竞技场改造(winztq)
+- [x] 修建物品分类机(YiLg)
 - [x] 修缮未建完的RepentStar的家 - 三楼修缮完成！
 - [x] 搬迁工业设施到末地(刷石机重置)
 - [x] 把旧建筑暂存场地搬迁至海上
