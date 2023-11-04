@@ -76,6 +76,8 @@ RPMC公告板 & BUG/问题回复
 - [ ] [监督无赖WuThreeThree完成那一大堆烂尾工程](./WUTHREETHREE.md)
 - [ ] 重建电力工程
 - [ ] 竞技场改造(winztq)
+- [ ] 酒窖
+- [ ] 监狱
 - [X] 修建物品分类机(YiLg)
 - [X] 修缮未建完的RepentStar的家 - 三楼修缮完成！
 - [X] 搬迁工业设施到末地(刷石机重置)
