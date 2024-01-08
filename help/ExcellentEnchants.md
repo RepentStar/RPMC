@@ -1,4 +1,5 @@
 # ExcellentEnchants
+
 更好的附魔，添加许多额外正/负向附魔
 
 所有可以在原版附魔上使用的操作，在这里都可以使用
@@ -10,6 +11,7 @@
 # 使用文档
 
 ## 增加条目
+
 ```text
 海王 (Aquaman)
 自动卷线器 (Auto Reel)
@@ -79,7 +81,8 @@
 凋零之箭 (Withered Arrows)
 凋零 (Wither)
 ```
-具体翻译请进入游戏执行`/excellentenchants list`查看GUI页面，有详细的中文介绍，包括附魔的效果、具体绑定对象和彼此冲突情况。
+
+具体翻译请进入游戏执行`/excellentenchants list`查看 GUI 页面，有详细的中文介绍，包括附魔的效果、具体绑定对象和彼此冲突情况。
 
 全人工汉化
 
