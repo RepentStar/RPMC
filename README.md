@@ -76,7 +76,7 @@ RPMC 公告板 & BUG/问题回复
 
 -   [ ] [监督无赖 WuThreeThree 完成那一大堆烂尾工程](./WUTHREETHREE.md)
 -   [ ] 重建电力工程
--   [ ] 竞技场改造(winztq)
+-   [x] 竞技场改造(winztq)
 -   [ ] 酒窖
 -   [ ] 监狱
 -   [x] 修建物品分类机(YiLg)
