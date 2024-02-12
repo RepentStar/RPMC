@@ -90,10 +90,6 @@ RPMC 公告板 & BUG/问题回复
 
 如有
 
-# 服务器目前遇到的问题(基本无解)
-
-[单独页面](./Unsolvable_problem.md)
-
 # 展望未来
 
 ~~前途迷茫~~
@@ -112,10 +108,9 @@ RPMC 公告板 & BUG/问题回复
     ![winztq](https://s.namemc.com/3d/skin/body.png?id=f187cdc71c0344ba&model=classic&theta=30&phi=21&time=1200&width=300&height=400)
 -   副建筑师/生电建造：YiLg
 
-# QQ、钉钉群
+# QQ 群
 
 Q:群：769232093
-D:(需先加我钉来拉群，我钉:1o5-rby5d6h844)
 
 # Github 上的朋友
 
