@@ -64,7 +64,6 @@ RPMC 公告板 & BUG/问题回复
 
 -   [x] 时刻关注[EssentialX](https://github.com/EssentialsX/Essentials)插件更新状况
 -   [x] 时刻关注[IronElevators](https://www.spigotmc.org/resources/ironelevators-1-4-6-1-20-x.19451/)插件更新状况
--   [x] ~~时刻关注 Ess-PlaceHolder-TAB 联动情况~~ 毁灭吧，升 1.20 之后 placeholder 一直抽风，excenchant 也受影响，已经把 TAB 换成 TABTPS 了
 -   [x] 时刻关注[SlimeFun](https://github.com/StarWishsama/Slimefun4)插件更新状况
 -   [ ] 时刻关注[Veinminer](https://github.com/2008Choco/VeinMiner)反选功能的更新
 
