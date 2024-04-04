@@ -66,6 +66,7 @@ RPMC 公告板 & BUG/问题回复
 -   [x] 时刻关注[IronElevators](https://www.spigotmc.org/resources/ironelevators-1-4-6-1-20-x.19451/)插件更新状况
 -   [x] 时刻关注[SlimeFun](https://github.com/StarWishsama/Slimefun4)插件更新状况
 -   [ ] 时刻关注[Veinminer](https://github.com/2008Choco/VeinMiner)反选功能的更新
+-   [ ] 更新[ExcellentEnchants](https://www.spigotmc.org/resources/excellentenchants-%E2%9A%A1-vanilla-like-enchantments.61693/)，重写配置
 
 ## 服务器状况
 
