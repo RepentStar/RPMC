@@ -99,10 +99,10 @@ RPMC 公告板 & BUG/问题回复
 > 仅展示活跃人员，非正版账号不放皮肤
 
 -   腐竹(软件维护/管理)：RepentStar
-    ![RepentStar](https://s.namemc.com/3d/skin/body.png?id=5af93d267b1e6ee2&model=classic&theta=30&phi=21&time=1200&width=300&height=400)
+    ![RepentStar](https://s.namemc.com/3d/skin/body.png?id=e84e99cc0457db44&model=classic&theta=30&phi=21&time=1200&width=300&height=400)
 -   主建筑师：WuThreeThree
     ![WuThreeThree](https://s.namemc.com/3d/skin/body.png?id=c2f25f8372563a90&model=classic&theta=30&phi=21&time=1200&width=300&height=400)
--   图标贡献者/活跃成员：skall_01
+-   图标贡献者：skall_01
     ![skall_01](https://s.namemc.com/3d/skin/body.png?id=03149ad2335a845e&model=slim&theta=30&phi=21&time=1200&width=300&height=400)
 -   活跃成员：winztq
     ![winztq](https://s.namemc.com/3d/skin/body.png?id=f187cdc71c0344ba&model=classic&theta=30&phi=21&time=1200&width=300&height=400)
